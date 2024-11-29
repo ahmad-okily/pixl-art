@@ -1,0 +1,41 @@
+#table {
+    background-color: purple;
+    display: table;
+    border: 4px solid purple;
+    border-collapse: separate;
+    border-spacing: 1px;
+
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+.palette_cell{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    display: inline-block
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#brown{
+    background-color: brown;
+}
+
